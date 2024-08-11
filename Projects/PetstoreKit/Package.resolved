@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Get",
+        "repositoryURL": "https://github.com/kean/Get",
+        "state": {
+          "branch": null,
+          "revision": "74dba201ebe42e9c15c1db6ee1cc893025bbef94",
+          "version": "2.2.0"
+        }
+      },
+      {
+        "package": "HTTPHeaders",
+        "repositoryURL": "https://github.com/CreateAPI/HTTPHeaders",
+        "state": {
+          "branch": null,
+          "revision": "96c4cb3fcb904c12891c9d65c902fbb691453562",
+          "version": "0.1.1"
+        }
+      },
+      {
+        "package": "URLQueryEncoder",
+        "repositoryURL": "https://github.com/CreateAPI/URLQueryEncoder",
+        "state": {
+          "branch": null,
+          "revision": "4ce950479707ea109f229d7230ec074a133b15d7",
+          "version": "0.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
